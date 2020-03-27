@@ -1,0 +1,6 @@
+sudo pip3 install PyQt5 
+sudo pip3 install pyqtgraph
+brew update
+brew install portaudio
+brew link --overwrite portaudio
+sudo pip3 install pyaudio 
